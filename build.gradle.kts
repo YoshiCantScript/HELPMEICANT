@@ -92,5 +92,3 @@ subprojects {
 task<Delete>("clean") {
     delete(rootProject.buildDir)
 }
-
-# easter egg pog
